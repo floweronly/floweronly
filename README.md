@@ -1,16 +1,37 @@
-## Hi there 👋
+## Oioioioi, bão? 👋
+<h1 align="center">Olá, me chamo flower 🌼</h1>
 
-<!--
-**floweronly/floweronly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Atualmente estudando <strong>Python</strong> e <strong>Go</strong> 🐍⚙️<br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- 🧠 Tentando criar projetos ao decorrer do meu ensino :D
+- 🔧 Quero trabalhar com **Python** e **Go**
+- 📚 Sempre disposta a aprender.
+
+---
+
+### 🧠 Linguagens que eu uso
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=floweronly&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floweronly&layout=compact&theme=radical"/>
+</p>
+
+---
+
+<sub>Feito com 💻 por <strong>floweronly</strong></sub>
