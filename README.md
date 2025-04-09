@@ -1,5 +1,5 @@
 ## Hello there, good? 👋
-<h1 align="center">I'm Flower! 🌼 <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f7.png" width="30"/></h1>
+<h1 align="center">I'm Flower! 🌼🇧🇷</h1>
 
 <p align="center">
   Currently studying <strong>Python</strong> and <strong>Go</strong> 🐍⚙️<br>
