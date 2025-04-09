@@ -1,21 +1,23 @@
-## Oioioioi, bão? 👋
-<h1 align="center">Olá, me chamo flower 🌼</h1>
+## Hello there, good? 👋
+<h1 align="center">I'm Flower! 🌼</h1>
 
 <p align="center">
-  Atualmente estudando <strong>Python</strong> e <strong>Go</strong> 🐍⚙️<br>
+  Currently studying <strong>Python</strong> and <strong>Go</strong> 🐍⚙️<br>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 about me
 
-- 🧠 Tentando criar projetos ao decorrer do meu ensino :D
-- 🔧 Quero trabalhar com **Python** e **Go**
-- 📚 Sempre disposta a aprender.
+🧠 Trying to build projects throughout my studies :D
+
+🔧 I want to work with Python and Go
+
+📚 Always willing to learn
 
 ---
 
-### 🧠 Linguagens que eu uso
+### 🧠 Languages that I use:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
