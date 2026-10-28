@@ -1,5 +1,5 @@
 ## Hello there, good? 👋
-<h1 align="center">I'm Flower! 🌼🇧🇷</h1>
+<h1 align="center">Salve! 🌼🇧🇷</h1>
 
 <p align="center">
   Currently studying <strong>Python</strong> and <strong>Go</strong> 🐍⚙️<br>
